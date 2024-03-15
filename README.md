@@ -2,7 +2,8 @@
 
 <h2>Description</h2>
 <b>Shank</b> is a programming language developed by Professor Michael Phipps at UAlbany.<br />
-<i>(See bottom for formal language definition)</i><br />
+- [Language Definition.pdf](https://github.com/ryan-dugan/ShankInterpreter/blob/main/Language%20Definition.pdf)
+<br />
 <br />
 
 <b>Project consists of 4 main components:</b>
