@@ -39,6 +39,8 @@ Lexer Output:  <br/>
 Parser Output: <br/>
 <img src="https://i.imgur.com/tiK4h1r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+Interpreter Output: <br/>
 
 
 <!--
