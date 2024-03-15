@@ -28,7 +28,7 @@ Users enter Shank code into the input file "input.shank" and the program runs th
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Example Input: <br/>
+Example Input - Greatest Common Denominator Program: <br/>
 <img src="https://i.imgur.com/gifw53J.png" height="80%" width="80%" alt="Shank Code"/>
 <br />
 <br />
