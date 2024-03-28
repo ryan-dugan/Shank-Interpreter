@@ -29,15 +29,15 @@ Users enter Shank code into the input file "input.shank" and the program runs th
 
 <p align="center">
 Example Input - Greatest Common Denominator Program: <br/>
-<img src="https://i.imgur.com/gifw53J.png" height="80%" width="80%" alt="Shank Code"/>
+<img src="https://i.imgur.com/gifw53J.png" height="50%" width="50%" alt="Shank Code"/>
 <br />
 <br />
 Lexer Output:  <br/>
-<img src="https://i.imgur.com/cZNMdQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cZNMdQl.png" height="80%" width="80%" alt="Lexical Analysis"/>
 <br />
 <br />
 Parser Output: <br/>
-<img src="https://i.imgur.com/tiK4h1r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tiK4h1r.png" height="80%" width="80%" alt="Parsing into AST"/>
 <br />
 <br />
 Interpreter Output: <br/>
