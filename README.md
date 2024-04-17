@@ -1,7 +1,7 @@
 <h1>Interpreter for the Shank Programming Language</h1>
 
 <h2>Description</h2>
-<b>Shank</b> is a programming language developed by Professor Michael Phipps at UAlbany.<br />
+<b>Shank</b> is a statically typed programming language developed by Professor Michael Phipps at UAlbany.<br />
 <i>(See Language Definition.pdf)</i><br />
 <br />
 
